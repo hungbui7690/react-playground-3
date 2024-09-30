@@ -1,0 +1,7 @@
+.list-group {
+  list-style: none;
+}
+
+.active {
+  background-color: lightblue;
+}
